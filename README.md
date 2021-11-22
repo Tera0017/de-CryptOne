@@ -20,6 +20,10 @@ Is a python 3 script which unpacks statically x86 & x64 samples packed with Cryp
 * yara-python, Version 4.1.0
 * pefile, Version 2021.5.24
 
+#### CryptOne unpacking
+
+How unpacker works can be found [here](https://github.com/Tera0017/de-CryptOne/blob/main/CryptOne_Unpacking.md).
+
 ### Support
 
 In case some files are not working, please make sure it is packed with CryptOne, if yes please provide me the hash in a DM ([@Tera0017](https://twitter.com/tera0017)).
