@@ -3,7 +3,7 @@ Author: @Tera0017/@SentinelOne
 """
 from modules.decryptshellcode import DecryptShellcode64, DecryptShellcode86
 from modules.decryptexecutable import DecryptExecutable64, DecryptExecutable86
-from modules.generic import message, writefile, get_osa, gen_name, process_args, get_size, ERRORS
+from modules.generic import get_osa, gen_name, get_size, message, process_args, writefile
 
 
 class DeCrypt1:
