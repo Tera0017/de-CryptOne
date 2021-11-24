@@ -2,11 +2,10 @@
 """
 Author: @Tera0017/@SentinelOne
 """
-import os.path
-
 import yara
 import pefile
 import struct
+import os.path
 
 ERRORS = {
     '01': 'File not found',
