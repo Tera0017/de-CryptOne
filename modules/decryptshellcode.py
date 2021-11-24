@@ -4,7 +4,7 @@ Author: @Tera0017/@SentinelOne
 import re
 import pefile
 import struct
-from .generic import readfile, match_rule, split_per, message, ERRORS, hexy
+from .generic import match_rule, message, readfile, split_per, ERRORS
 
 
 class DecryptShellcode:
