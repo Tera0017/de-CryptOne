@@ -8,19 +8,19 @@ Is a python 3 script which unpacks statically x86 & x64 samples packed with Cryp
 ```
 ~$ python3 decrypt1.py sample.bin
 ```
-
+&nbsp;
 #### Example
 
 ![](images/x64.gif)
 
-
+&nbsp;
 #### Requirements (Latest tested)
 
 * Yara, Version 3.9.0
 * yara-python, Version 4.1.0
 * pefile, Version 2021.5.24
 
-#### CryptOne unpacking
+### CryptOne unpacking
 
 Unpacking CryptOne step by step, [CryptOne Unpacking](https://github.com/Tera0017/de-CryptOne/blob/main/CryptOne_Unpacking.md).
 
