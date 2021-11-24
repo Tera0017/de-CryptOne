@@ -2,7 +2,7 @@
 Author: @Tera0017/@SentinelOne
 """
 import struct
-from .generic import match_rule, split_per, message, fix_dword, hexy
+from .generic import fix_dword, match_rule, message, split_per
 
 
 class DecryptExecutable:
