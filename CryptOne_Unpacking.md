@@ -1,6 +1,6 @@
 Unpacking CryptOne
 ==============
-source: **[Sanctions Be Damned | From Dridex to Macaw, The Evolution of Evil Corp](TODO)**
+*Source*: **[Sanctions Be Damned | From Dridex to Macaw, The Evolution of Evil Corp](TODO)**
 
 
 CryptOne unpacking method consists of two stages:
