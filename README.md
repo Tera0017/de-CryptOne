@@ -24,7 +24,7 @@ Is a python 3 script which unpacks statically x86 & x64 samples packed with Cryp
 &nbsp;
 ### CryptOne unpacking
 
-Unpacking CryptOne step by step, [CryptOne Unpacking](https://github.com/Tera0017/de-CryptOne/blob/main/CryptOne_Unpacking.md).
+Unpacking old version of CryptOne step by step, [CryptOne Unpacking](https://github.com/Tera0017/de-CryptOne/blob/main/CryptOne_Unpacking.md).
 
 &nbsp;
 ### Support
