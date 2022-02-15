@@ -1,5 +1,7 @@
 Unpacking CryptOne
 ==============
+source: **[Sanctions Be Damned | From Dridex to Macaw, The Evolution of Evil Corp](TODO)**
+
 
 CryptOne unpacking method consists of two stages:
 * Decrypts and executes embedded shellcode.
@@ -17,11 +19,11 @@ Example Memory Dump:
 * **0x7A**, Chunk Size 
 
 \
-Once the “Junks” are removed, the decryption starts with a simple XOR-Key which increases by 0x4 in each round. The initial XOR-Key is **0xA113**.
+After the removal of the junk data, the decryption starts with a simple XOR-Key which increases by 0x4 in each round. The initial XOR-Key is **0xA113**.
 
 ![](images/unpacking/02_crypt1_unpacking.png)
 
-Once the shellcode is decrypted, we can observe (_“This program cannot be run in DOS mode”_) that those data contained embedded an PE executable which requires a 2nd decryption. 
+Once the shellcode is decrypted, we can partially observe _“This program cannot be run in DOS mode”_ where this data contains an executable which requires a second decryption. 
 
 ![](images/unpacking/03_crypt1_unpacking.png)
 
