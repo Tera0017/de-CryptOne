@@ -56,7 +56,7 @@ rule CryptOne
 {
   meta:
 	Author = "@Tera0017/@SentinelOne"
-	Family = "CryptOne Rule Versions from 2020/01 - 2021/06"
+	Family = "CryptOne Rule Versions from ~2020/01 - ~2021/04"
   strings:
 	$x86_code1 = {68 FC 4A 06 00 68 F4 E0 01 00 E8}
 	$x86_code2 = {6A 15 E8 [4] 83 C4 04 A3 [4] 68 45 7E 00 00}
