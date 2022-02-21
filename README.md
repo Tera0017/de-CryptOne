@@ -3,8 +3,6 @@ de-CryptOne
 
 Is a python 3 script which unpacks statically x86 & x64 samples packed with CryptOne packer versions from ~2020/01 until ~2021/04. This packer for a period of time was used also by EvilCorp.
 
-&nbsp;
-Next CryptOne version can be found [here](https://github.com/Tera0017/de-CryptOne-v2).
 
 ### Usage
 
@@ -28,6 +26,7 @@ Next CryptOne version can be found [here](https://github.com/Tera0017/de-CryptOn
 ### CryptOne unpacking
 
 Unpacking old version of CryptOne step by step, [CryptOne Unpacking](https://github.com/Tera0017/de-CryptOne/blob/main/CryptOne_Unpacking.md).
+Next CryptOne version unpacker can be found [here](https://github.com/Tera0017/de-CryptOne-v2).
 
 &nbsp;
 ### Support
