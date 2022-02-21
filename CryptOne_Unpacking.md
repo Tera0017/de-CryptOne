@@ -2,6 +2,7 @@ Unpacking CryptOne
 ==============
 ----------------------------------
 *Source*: **[Sanctions Be Damned | From Dridex to Macaw, The Evolution of Evil Corp](https://www.sentinelone.com/labs/sanctions-be-damned-from-dridex-to-macaw-the-evolution-of-evil-corp)**
+
 *EC research CryptOne Data*: **[CryptOne_IOCs](https://github.com/SentineLabs/Crypt1_IOCs)**
 ----------------------------------
 
