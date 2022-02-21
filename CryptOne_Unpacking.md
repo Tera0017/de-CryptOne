@@ -5,7 +5,7 @@ Unpacking CryptOne
 *CrpytOne unpacked Data*: **[CryptOne_IOCs](https://github.com/SentineLabs/Crypt1_IOCs)**
 
 \
-\
+
 
 CryptOne unpacking method consists of two stages:
 * Decrypts and executes embedded shellcode.
